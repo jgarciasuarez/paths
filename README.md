@@ -7,7 +7,9 @@ by Joaquin Garcia-Suarez (2025)
 
 ## Overview
 
-The notebook implements both the **Transfer Matrix Method (TMM)** and a novel **path decomposition approach** to analyze light propagation through multilayer optical systems. 
+Main notebook implements both the **Transfer Matrix Method (TMM)** and a novel **path decomposition approach** to analyze light propagation through multilayer optical systems.
+Extra notebook implements both to compare results for a random multilayer optical systems.
+Extra Mathematica notebook compares the path-sum decomposition and previously-published analytical results (JMPS, 2022).
 
 ## Features
 
